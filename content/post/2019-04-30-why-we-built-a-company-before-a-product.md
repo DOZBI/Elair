@@ -1,8 +1,13 @@
 ---
-title: Conception électronique de carte de visite , carte de mariage et cv .
+title: Conception virtuelle  de carte de visite , carte de mariage et cv .
 date: 2019-04-30
 hero: "/images/d47b4c18-73d7-4bd8-a81d-fcf1cb957fc3.png"
-excerpt: this is my excerpt
+excerpt: 'Pour prendre contact, se faire connaître et élargir leur cercle, les professionnels
+  se servent de leurs cartes de visite. Cela concerne surtout ceux qui doivent rencontrer
+  des partenaires, des clients et d’autres parties prenantes. Des supports servent
+  alors à présenter les coordonnées du titulaire aux interlocuteurs. Si l’importance
+  de la carte de visite est déjà reconnue, celle des cartes de visite virtuelle est
+  encore en plein essor. '
 timeToRead: 3
 authors: []
 
