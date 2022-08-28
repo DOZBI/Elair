@@ -2,155 +2,35 @@
 title: Création de logo et affiches publicitaire professionnel.
 date: 2018-04-30
 hero: "/images/1f8e7f9a-4e15-41ae-bd8d-87b9a1792df4.webp"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
-  apps in the U.S, along with Uber, Lyft.
+excerpt: 'Vos affiches publicitaires réinventées Votre  public veut de la qualité
+  : optez pour des affiches professionnelles et logo professionnel'
 timeToRead: 3
 authors: []
 
 ---
-Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+Lorsque vous désirez faire la promotion d’une entreprise, d’une organisation ou d’un événement, il n’y a rien de mieux que l’utilisation d’affiches publicitaires. Ces supports ont longtemps été utilisés par les organisations afin de soutenir leur stratégie de marketing. C’est l’un des meilleurs moyens de toucher un public plus large.
 
-In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
+Pour une entreprise, l’utilisation d’affiches publicitaires devient même vitale. La raison est toute simple. Chaque entreprise a forcément besoin de faire connaître ses produits et services. Les affiches permettent par exemple de :  
+– lancer de nouveaux produits ;  
+– faire de la publicité ;  
+– transmettre des informations ;  
+– promouvoir des événements et des campagnes ;  
+– redonner vie à un produit existant ;  
+– et bien d’autres choses encore !
 
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
+Les affiches publicitaires facilitent donc l’augmentation du chiffres d’affaires et l’acquisition de nouveaux clients pour les entreprises. Mais en plus, elles permettent de redorer l’image que celles-ci renvoient auprès de leur public.
 
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
+Bien sûr, uniquement, lorsque ces affiches sont conçues avec soin et créativité. Lorsqu’une affiche publicitaire parait plutôt terne et sans vie, elle a au contraire plus de chance de faire fuir les potentiels clients.
 
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
+> ![](/images/f82c085a-08a8-49bb-a82d-190c5179b2f9.jpeg)
 
-```js
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "@emotion/styled";
+## **Conception-Logo.com vous accompagne dans la conception graphique de vos affiches.**
 
-import * as SocialIcons from "../../icons/social";
-import mediaqueries from "@styles/media";
+![](/images/104712cf-e8b6-4c87-9281-790fefcc2bf7.jpeg)
 
-const icons = {
-  dribbble: SocialIcons.DribbbleIcon,
-  linkedin: SocialIcons.LinkedinIcon,
-  twitter: SocialIcons.TwitterIcon,
-  facebook: SocialIcons.FacebookIcon,
-  instagram: SocialIcons.InstagramIcon,
-  github: SocialIcons.GithubIcon,
-};
+Mais ce n’est pas tout. Aujourd’hui, les choses paraissent un peu plus difficiles. Vous avez de plus en plus de concurrents qui présentent les mêmes produits et services que vous. Ces derniers essaient d’offrir eux aussi les meilleurs services possibles à leur clientèle.
 
-const socialQuery = graphql`
-  {
-    allSite {
-      edges {
-        node {
-          siteMetadata {
-            social {
-              name
-              url
-            }
-          }
-        }
-      }
-    }
-  }
-`;
+Vous avez donc besoin de vous démarquer. Votre communication visuelle doit vous permettre de ressortir du lot. À travers vos affiches, vous devez montrer à votre public que vous êtes digne de confiance. Que vous leur apportez les meilleures solutions qui soient. Que vous êtes expert de votre domaine.
 
-function SocialLinks({ fill = "#73737D" }: { fill: string }) {
-  const result = useStaticQuery(socialQuery);
-  const socialOptions = result.allSite.edges[0].node.siteMetadata.social;
-
-  return (
-    <>
-      {socialOptions.map(option => {
-        const Icon = icons[option.name];
-
-        return (
-          <SocialIconContainer
-            key={option.name}
-            target="_blank"
-            rel="noopener"
-            data-a11y="false"
-            aria-label={`Link to ${option.name}`}
-            href={option.url}
-          >
-            <Icon fill={fill} />
-          </SocialIconContainer>
-        );
-      })}
-    </>
-  );
-}
-```
-
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
-
-# This is a primary heading
-
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-But it takes more than good ideas to build and grow a business. It takes people to bring them into reality. Are those people collaborating and sharing their expertise, or are they in conflict and keeping it to themselves?
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
-
-## This is a secondary heading
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
-
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
-
----
-
-Hyphens
-
----
-
-Asterisks
-
----
-
-Underscores
-
-These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
-
-Do they have the resources necessary to execute on their ideas? Or are they constantly under pressure to pluck only the lowest-hanging fruit through bare minimum means, while putting their greatest ambitions on the back-burner?
-
-Emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-1. First ordered list item
-2. Another item
-   ⋅⋅\* Unordered sub-list.
-3. Actual numbers don't matter, just that it's a number
-   ⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
+Chez Conception-Logo.com, nous vous accompagnons dans cette noble mission. Nous vous réalisons des affiches publicitaires professionnelles en rapport avec votre cœur de métier. Quel que soit le type de support pour lequel ils sont destinés, web ou imprimés sur papiers, les affiches que nous créons pour vous diffusent le message essentiel et atteignent les cibles visées.
