@@ -1,7 +1,7 @@
 ---
 hero:
   heading: 'Elair service digital '
-  maxWidthPX: "652"
+  maxWidthPX: "400"
 seo:
   image: "/images/hero-2.jpg"
 
