@@ -1,12 +1,11 @@
 ---
 title: Marketing digital et community manager réseaux sociaux.
 date: 2019-04-26
-hero: "/images/hero-3.jpg"
+hero: "/images/81113c74-e680-4f87-ba08-8ae8ac8357d6.gif"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 8
-authors:
-- Dennis Brotzky
+authors: []
 
 ---
 To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
