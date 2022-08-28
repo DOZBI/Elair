@@ -1,14 +1,12 @@
 ---
-title: Why we built a company before building a product
+title: Conception de carte de visite , carte de mariage et cv .
 date: 2019-04-30
-hero: /images/hero-6.jpg
+hero: "/images/d47b4c18-73d7-4bd8-a81d-fcf1cb957fc3.png"
 excerpt: this is my excerpt
 timeToRead: 3
-authors:
-  - Thiago Costa
+authors: []
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 In my experience, the challenges that growing companies struggle with rarely stem from a lack of good ideas. Good ideas are everywhere.
