@@ -1,5 +1,5 @@
 ---
-title: Marketing digital et community manager réseaux sociaux.
+title: 'Marketing digital et social média manager. '
 date: 2019-04-26
 hero: "/images/81113c74-e680-4f87-ba08-8ae8ac8357d6.gif"
 excerpt: Découvrez ce qu’est le marketing digital.
