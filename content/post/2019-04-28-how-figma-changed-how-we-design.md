@@ -20,4 +20,4 @@ Tout d’abord, il est difficile de juger correctement de l’origine de l’e-m
 
 Tout le monde peut créer une adresse Gmail ou Outlook avec n’importe quel nom. Comment un client potentiel peut-il confirmer que vous êtes bien la personne que vous dites être, à moins que votre adresse e-mail ne le fasse ?
 
-Une réticence à investir dans une adresse e-mail professionnelle indique que vous n’êtes pas très sérieux dans votre entreprise. C’est pourquoi vous voulez une adresse e-mail comme prenom@votredomaine.com ou contact@votrenom.com.
+Une réticence à investir dans une adresse e-mail professionnelle indique que vous n’êtes pas très sérieux dans votre entreprise. C’est pourquoi vous voulez une adresse e-mail comme prenom@votredomaine.com ou contact@votrenom.cg.
