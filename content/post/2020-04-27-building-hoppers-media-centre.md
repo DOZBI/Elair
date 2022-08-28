@@ -1,12 +1,11 @@
 ---
-title: A story of why Forestry loves Hugo
-date: 2020-04-27
-hero: "/images/hero-3.jpg"
+title: Création et location de site web d’entreprise et d’ecommerce
+date: 2022-08-21T23:00:00+00:00
+hero: "/images/a1786b4b-7b89-4306-a274-d31bb89d8676.webp"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
   apps in the U.S, along with Uber, Lyft.
 timeToRead: 8
-authors:
-- Dennis Brotzky
+authors: []
 
 ---
 To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
