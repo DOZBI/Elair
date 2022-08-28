@@ -1,5 +1,5 @@
 ---
-title: Création et location de site web d’entreprise et ecommerce
+title: Création et location de site web d’entreprise et ecommerce.
 date: 2022-08-21T23:00:00+00:00
 hero: "/images/a1786b4b-7b89-4306-a274-d31bb89d8676.webp"
 excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
