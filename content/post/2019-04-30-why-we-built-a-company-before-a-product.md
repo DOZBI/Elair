@@ -1,5 +1,5 @@
 ---
-title: Conception de carte de visite , carte de mariage et cv .
+title: Conception électronique de carte de visite , carte de mariage et cv .
 date: 2019-04-30
 hero: "/images/d47b4c18-73d7-4bd8-a81d-fcf1cb957fc3.png"
 excerpt: this is my excerpt
