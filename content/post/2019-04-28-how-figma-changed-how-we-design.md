@@ -1,14 +1,13 @@
 ---
-title: How Figma changed the way we designed Novela
+title: Conception des cartes de visite ,carte de mariage et cv .
 date: 2019-04-28
-hero: /images/hero-5.jpg
-excerpt: To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer.
+hero: "/images/d47b4c18-73d7-4bd8-a81d-fcf1cb957fc3.png"
+excerpt: To understand why Figma is the best design tool for our company, you have
+  to understand what we do. As a designer.
 timeToRead: 8
-authors:
-  - Thiago Costa
+authors: []
 
 ---
-
 To understand why Figma is the best design tool for our company, you have to understand what we do. As a designer, I’ve been crafting digital experiences for the past ten years, having contributed to the growth of companies such as Hopper, Lightspeed, and Breather, among others. Throughout this journey, I’ve had the opportunity to meet the most talented designers, engineers, growth marketers, and build a world-class team to develop startups worldwide. We call this team Narative.
 
 Narative is a studio based in 3 different cities around the world; so right off the bat we’re already facing a challenge; geography.
