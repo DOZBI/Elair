@@ -1,7 +1,7 @@
 ---
 title: Création et location de site web d’entreprise et ecommerce.
 date: 2022-08-21T23:00:00+00:00
-hero: "/images/a1786b4b-7b89-4306-a274-d31bb89d8676.webp"
+hero: "/images/c91be565-bd83-4b3c-9b78-4bbaf8c858a9.jpeg"
 excerpt: En tant qu'entreprise, vous devez communiquer sur vos activités et vos produits
   pour accroître votre chiffre d'affaires, pourquoi utiliser Internet comme support
   de communication ?
