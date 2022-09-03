@@ -1,7 +1,7 @@
 ---
 title: 'Marketing digital et social média manager. '
 date: 2019-04-26
-hero: "/images/c91be565-bd83-4b3c-9b78-4bbaf8c858a9.jpeg"
+hero: "/images/81113c74-e680-4f87-ba08-8ae8ac8357d6.gif"
 excerpt: Découvrez ce qu’est le marketing digital.
 timeToRead: 8
 authors: []
