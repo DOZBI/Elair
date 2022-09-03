@@ -1,7 +1,7 @@
 ---
 title: Création de logo et affiches publicitaire professionnel.
 date: 2018-04-30
-hero: "/images/1f8e7f9a-4e15-41ae-bd8d-87b9a1792df4.webp"
+hero: "/images/28f24a79-69b3-492d-a0a6-35b582af945f.png"
 excerpt: 'Vos affiches publicitaires réinventées Votre  public veut de la qualité
   : optez pour des affiches professionnelles et logo professionnel'
 timeToRead: 3
