@@ -25,7 +25,7 @@ Une carte de visite virtuelle présente les mêmes fonctions que la carte de vis
 ![](/images/cee0ca59-b428-417b-8d4b-59e315c209a1.jpeg)  
 Le mariage approche et vous souhaitez inviter la famille, vos amis pour ce bel événement .
 
-**Pourquoi choisir un faire-part mariage animé ?**
+**Pourquoi choisir un faire-part mariage animé.**
 
 Vous voulez une invitation unique, très originale ou la date du mariage est trop proche pour envoyer des invitations papiers !
 
